@@ -1,0 +1,56 @@
+# Archivos y carpetas del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de Unity generados automáticamente
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Archivos de configuración de usuario
+UserSettings/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Archivos generados por el sistema operativo
+*.bak
+*.old
+*.orig
+
+# Archivos de compilación
+*.exe
+*.dll
+*.apk
+*.app
+*.aab
+*.jar
+*.pdb
+*.mdb
+
+# Archivos de cache de Unity
+*.stacktrace
+*.log
+
+# Visual Studio Code settings (si los compartes, elimina esta línea)
+.vscode/
+
+# Rider settings (si no deseas compartir configuración del IDE JetBrains)
+.idea/
+*.sln.iml
+
+# Archivos de colab y versiones
+.collab/
